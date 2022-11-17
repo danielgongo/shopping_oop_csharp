@@ -1,0 +1,8 @@
+C:\Curso_c#\Shopping\Shopping\bin\Debug\Shopping.exe.config
+C:\Curso_c#\Shopping\Shopping\bin\Debug\Shopping.exe
+C:\Curso_c#\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\Curso_c#\Shopping\Shopping\obj\Debug\Shopping.csproj.AssemblyReference.cache
+C:\Curso_c#\Shopping\Shopping\obj\Debug\Shopping.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\Shopping\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Curso_c#\Shopping\Shopping\obj\Debug\Shopping.exe
+C:\Curso_c#\Shopping\Shopping\obj\Debug\Shopping.pdb
